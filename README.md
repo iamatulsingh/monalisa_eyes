@@ -1,7 +1,7 @@
-# Mona Lisa Eyes
+# Mona Lisa's Eyes
 
 A machine learning + art project. Deployed at:
-[https://monalisaeffect.com](https://monalisaeffect.com)
+[monalisa_eyes](https://iamatulsingh.github.io/monalisa_eyes/)
 
 Featured on the [TensorFlow blog](https://blog.tensorflow.org/2020/09/bringing-mona-lisa-effect-to-life-tensorflow-js.html) and the front page of [Hacker News](https://news.ycombinator.com/front?day=2020-09-25). 
 
