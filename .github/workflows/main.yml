@@ -22,7 +22,7 @@ jobs:
     
     - name: Install NPM packages
       working-directory: ./webapp
-      run: npm ci
+      run: npm i --force
     
     - name: Build project
       working-directory: ./webapp
