@@ -1,5 +1,7 @@
-.ipynb_checkpoints/*
-data/*
+node_modules
+dist
+**/.ipynb_checkpoints/*
+**/data/*
 # Local Netlify folder
-.netlify
-file_paths.txt
+**/.netlify
+**/file_paths.txt
