@@ -22,6 +22,10 @@ jobs:
     
     - name: Install NPM packages
       run: npm i --force
+
+    - name: Check folder structure
+      run: |
+        ls -la
     
     - name: Build project
       run: npm run build
