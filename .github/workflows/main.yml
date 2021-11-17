@@ -26,6 +26,10 @@ jobs:
     - name: Check folder structure
       run: |
         ls -la
+        
+    - name: Check working directory path
+      run: |
+        pwd
     
     - name: Build project
       run: npm run build
